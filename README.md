@@ -1,6 +1,8 @@
 
 # Specification
 
+Deploy: https://ts-bcamp-2023-pixijs-hw-ps.netlify.app/
+
 ## Layout:
 
 Basic layout consists of Background image, button in the center of the background and 6 symbols that are moving around the button (see Figure 1).
